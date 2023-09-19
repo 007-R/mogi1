@@ -7,7 +7,7 @@
 社員の勤怠管理
 
 ##アプリケーションURL
-
+https://github.com/007-R/mogi1/tree/master
 
 ##他のレポジトリ
 該当なし
