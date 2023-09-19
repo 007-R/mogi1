@@ -1,0 +1,26 @@
+.search_employee{
+    padding-top:50px;    
+}
+
+.instruction_message{
+    font-size:20px;
+    text-align:center;   
+}
+
+.search_form{
+    margin:0px auto;
+    width:20%;
+    display:flex;
+    justify-content: space-around;
+
+}
+
+.create-form__item-select{
+    width:250px;
+}
+
+
+.create-form__button-submit{
+    color:white;
+    background-color: blue;
+}

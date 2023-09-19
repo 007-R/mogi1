@@ -1,0 +1,49 @@
+.header__inner{
+    font-size: 30px;
+    padding:20px 40px;
+    font-family: "Gill Sans", sans-serif;
+}
+
+.header{
+    display:flex;
+    justify-content: space-between;
+}
+
+.header-nav-list{
+    display: flex;
+    justify-content: space-between;
+    margin-right:50px;
+    padding:20px;
+}
+
+.header-nav-item{
+    margin-right:60px;
+    list-style: none;
+}
+
+.header-nav-item:last-child {
+    margin-right: 10px;
+    font-size: 15px;
+    list-style: none;
+    text-decoration: none;
+    background-color: white;
+    border:none;
+}
+
+.header-text{
+    text-decoration: none;
+    color:black;
+    font-size: 15px;
+}
+
+main{
+    background-color: rgb(236, 234, 234);
+    height:35rem;
+}
+
+
+.foot{
+    text-align: center;
+    font-family: "Gill Sans", sans-serif;
+    padding:10px;
+}

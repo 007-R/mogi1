@@ -1,0 +1,27 @@
+.stamp-form {
+    width: 70%;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.mini-title{
+    padding-top:30px;
+}
+
+.stamp {
+    width:50%;
+    padding: 40px;
+    margin:0px auto;
+    display:flex;
+    justify-content: space-around;
+}
+
+.time-stamp {
+    /* padding: 10px 10px; */
+    font-size: 20px;
+    background-color: white;
+    border:solid;
+    margin:-20px 10px;
+    height:8rem;
+    width:12rem;
+}
