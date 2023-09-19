@@ -26,13 +26,11 @@
         @enderror
         </div>
         <div>
-            <button type='submit'>ログイン</button>
+            <button class='button_comment' type='submit'>ログイン</button>
         </div>
-
-
     </form>
     <div>
-        <p>アカウントをお持ちでない方はこちら</p>
+        <p class='comment'>アカウントをお持ちでない方はこちら</p>
         <a href='/register'>会員登録</a>
     </div>
 </div>

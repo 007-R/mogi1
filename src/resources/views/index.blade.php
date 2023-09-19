@@ -9,7 +9,7 @@
 <div class='stamp-form'>
     <div class='mini-title'>
         @if (Auth::check())
-        <h2>{{Auth::user()->name}}さんお疲れさまです！</h2>
+        <h2 class ='index_message'>{{Auth::user()->name}}さんお疲れさまです！</h2>
         @endif
     </div>
     <div class=stamp>

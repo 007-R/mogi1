@@ -24,7 +24,7 @@
                 <li class="header-nav-item"><a class=header-text href="/employeeList">従業員別一覧</a></li>
                 <form class='form' action='/logout' method='post'>
                 @csrf
-                <button class="header-nav-item" type='submit'>ログアウト</button></form>
+                <button class="header-nav-item" type='submit'><a>ログアウト</a></button></form>
             </ul>
             @endif
         </div>

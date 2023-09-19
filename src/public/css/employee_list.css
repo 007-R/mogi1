@@ -16,11 +16,14 @@
 }
 
 .create-form__item-select{
-    width:250px;
+    width:200px;
 }
 
 
 .create-form__button-submit{
     color:white;
     background-color: blue;
+    width:50px;
+    border:solid blue 1px;
+    border-radius:5px
 }
