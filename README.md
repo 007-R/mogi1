@@ -7,7 +7,7 @@
 社員の勤怠管理
 
 ##アプリケーションURL
-[https://github.com/007-R/mogi1/new/compBC]
+[https://github.com/007-R/mogi1/tree/compBC]
 
 ##他のレポジトリ
 該当なし
