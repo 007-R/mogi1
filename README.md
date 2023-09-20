@@ -1,7 +1,8 @@
 ## mogi1
 
 ##アプリケーション名
-![image](https://github.com/007-R/mogi1/assets/66697562/111668f8-0373-46e6-85d3-43a6b6b618e2)
+![image](https://github.com/007-R/mogi1/assets/66697562/ec680124-3fc7-4853-b067-85f3cade1031)
+
 
 ##作成した目的
 社員の勤怠管理
@@ -38,6 +39,7 @@ Laravel立ち上げ後、[env.のAPP_URL]/login へアクセス
 テストユーザー　aaa@ddd(PassWord:aaaaaaaa)
 
 ##参考
+
 打刻画面
 ![image](https://github.com/007-R/mogi1/assets/66697562/aa2b1d7f-083f-481f-9d6e-8b994a7ed7ce)
 
